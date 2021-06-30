@@ -1,8 +1,5 @@
 # React Digital TV Guide 
 
-Build a React Redux CRUD Application to consume Web API using Axios, display and modify data with Router & Bootstrap.
-
-React Redux Show Application in that:
 - A simple responsive web application that uses the public TVMaze API (https://www.tvmaze.com/api) to display TV Shows and some basic details.
 - Working login/logout function.
 - Functional registration
